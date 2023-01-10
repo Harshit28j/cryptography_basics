@@ -47,7 +47,7 @@ def encryption(txt):
 			en_txt+=l[(index*A+B)%len(l)]#f(x)=Ax+B
 	return(en_txt)
 
-def findModInverse(a, m):
+def findModInverse(a, m): #euler's algo concept
 	if gcd(a, m) != 1:
 		return None
 	u1, u2, u3 = 1, 0, a
