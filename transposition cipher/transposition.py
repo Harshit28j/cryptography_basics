@@ -1,3 +1,4 @@
+import math 
 message = 'Python is my favourite'
 key=6
 def en():
