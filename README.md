@@ -1,5 +1,8 @@
-# 💫 About Code:
-This is basics of cryptography that is used by hackers back in old times <br>its a basic foundation of hacking and cryptography.
+# Introduction to Cryptography
+This repository provides an introduction to cryptography, which serves as a foundational knowledge base for understanding hacking techniques and cryptographic principles. It covers the fundamental concepts and methodologies used in early cryptography practices.
+
+# Here is the Playlist
+[![YouTube Playlist](https://img.youtube.com/vi/0wFDC7mwq7Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=0wFDC7mwq7Y&list=PLYxNhfxlB1J6n9TWtHJDpPkfGNct84xts&pp=gAQBiAQB)
 
 
 ## 🌐 Socials:
